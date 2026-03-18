@@ -5,6 +5,6 @@ if(seuNome === ""){
 }
 else{
     document.getElementById("seuNomeInput").addEventListener("input", function(event){
-    nome = event.target.value; 
-    console.log(nome);  // Atualiza a variável 'nome' com o texto digitado
+    nome = event.target.value; // Atualiza a variável 'nome' com o texto digitado
+    console.log(nome);  
 });}
