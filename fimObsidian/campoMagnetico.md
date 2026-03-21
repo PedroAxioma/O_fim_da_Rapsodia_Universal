@@ -1,4 +1,4 @@
-Quando o campo magnético desse planeta ainda era significativo.
+O campo magnético desse planeta já foi significativo.
 Além disso era deslocado dos seus eixos de rotação, 
 provavelmente por causa da colisão de outro corpo massivo
 E isso permitia que as auroras fossem vistas fora dos polos.
